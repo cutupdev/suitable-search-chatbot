@@ -1,2 +1,2 @@
 # custom-chatbot
-Custom Chatbot using Pinecone memory and Langchain.
+Custom Chatbot using (RAG) Retrieval-augmented generation, Pinecone and Langchain.
